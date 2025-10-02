@@ -12,12 +12,12 @@ This project focuses on building a **neural network from scratch** to classify h
   - **ROC Curve & AUC**
   - **Accuracy and Loss curves over epochs**
 
-##Results
--Achieved high accuracy on both training and test sets.
--Detailed performance metrics provide insights into class-wise model behavior.
--Visualizations aid in understanding model strengths and weaknesses.
+## Results
+- Achieved high accuracy on both training and test sets.
+- Detailed performance metrics provide insights into class-wise model behavior.
+- Visualizations aid in understanding model strengths and weaknesses.
 
-##Key Learnings
--Implemented neural networks from scratch, enhancing understanding of underlying math and algorithms.
--Gained hands-on experience in model evaluation and performance analysis.
--Learned to interpret ROC curves, AUC, confusion matrices, and classification reports for multi-class problems.
+## Key Learnings
+- Implemented neural networks from scratch, enhancing understanding of underlying math and algorithms.
+- Gained hands-on experience in model evaluation and performance analysis.
+- Learned to interpret ROC curves, AUC, confusion matrices, and classification reports for multi-class problems.
