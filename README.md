@@ -11,6 +11,9 @@ This project focuses on building a **neural network from scratch** to classify h
   - **Classification Report**
   - **ROC Curve & AUC**
   - **Accuracy and Loss curves over epochs**
+ 
+## Dataset
+- The dataset is available for download at https://www.kaggle.com/datasets
 
 ## Results
 - Achieved high accuracy on both training and test sets.
